@@ -1,6 +1,0 @@
-E:\work\ServerTcp\GetDataByTcp.Model\bin\Release\GetDataByTcp.Model.dll
-E:\work\ServerTcp\GetDataByTcp.Model\bin\Release\GetDataByTcp.Model.pdb
-E:\work\ServerTcp\GetDataByTcp.Model\obj\Release\GetDataByTcp.Model.csproj.AssemblyReference.cache
-E:\work\ServerTcp\GetDataByTcp.Model\obj\Release\GetDataByTcp.Model.csproj.CoreCompileInputs.cache
-E:\work\ServerTcp\GetDataByTcp.Model\obj\Release\GetDataByTcp.Model.dll
-E:\work\ServerTcp\GetDataByTcp.Model\obj\Release\GetDataByTcp.Model.pdb
