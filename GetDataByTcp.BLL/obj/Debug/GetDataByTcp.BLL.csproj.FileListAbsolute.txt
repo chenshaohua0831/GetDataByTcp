@@ -1,0 +1,14 @@
+E:\work\ServerTcp\GetDataByTcp.BLL\bin\Debug\GetDataByTcp.BLL.dll
+E:\work\ServerTcp\GetDataByTcp.BLL\bin\Debug\GetDataByTcp.BLL.pdb
+E:\work\ServerTcp\GetDataByTcp.BLL\bin\Debug\GetDataByTcp.DAL.dll
+E:\work\ServerTcp\GetDataByTcp.BLL\bin\Debug\Dapper.dll
+E:\work\ServerTcp\GetDataByTcp.BLL\bin\Debug\GetDataByTcp.DAL.pdb
+E:\work\ServerTcp\GetDataByTcp.BLL\bin\Debug\GetDataByTcp.DAL.dll.config
+E:\work\ServerTcp\GetDataByTcp.BLL\bin\Debug\Dapper.xml
+E:\work\ServerTcp\GetDataByTcp.BLL\obj\Debug\GetDataByTcp.BLL.csproj.AssemblyReference.cache
+E:\work\ServerTcp\GetDataByTcp.BLL\obj\Debug\GetDataByTcp.BLL.csproj.CoreCompileInputs.cache
+E:\work\ServerTcp\GetDataByTcp.BLL\obj\Debug\GetDataB.45EC78F1.Up2Date
+E:\work\ServerTcp\GetDataByTcp.BLL\obj\Debug\GetDataByTcp.BLL.dll
+E:\work\ServerTcp\GetDataByTcp.BLL\obj\Debug\GetDataByTcp.BLL.pdb
+E:\work\ServerTcp\GetDataByTcp.BLL\bin\Debug\GetDataByTcp.Model.dll
+E:\work\ServerTcp\GetDataByTcp.BLL\bin\Debug\GetDataByTcp.Model.pdb
