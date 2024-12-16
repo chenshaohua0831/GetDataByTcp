@@ -1,0 +1,15 @@
+/.vs
+/GetDataByTcp.BLL/bin
+/GetDataByTcp.BLL/obj
+/GetDataByTcp.DAL/obj
+/GetDataByTcp.DAL/bin
+/GetDataByTcp.Model/obj
+/GetDataByTcp.Model/bin
+/GetDataByTcp.Server/obj
+/GetDataByTcp.Server/bin
+/GetDataByTcp.WinSv/bin
+/GetDataByTcp.WinSv/obj
+/InsertDataByExcel.Winform/obj
+/InsertDataByExcel.Winform/bin
+/WebServer/bin
+/WebServer/obj
